@@ -2,7 +2,7 @@
 
 ![Image of your image](calculator.png)
 
-Download apk file: https://drive.google.com/file/d/1AClXNbvbffOZpa84F7wX8wQnR7esqEDQ/view?usp=sharing
+Download apk file: ???????????????????????????
 
 A simple calculator for Android, developed with React Native, Expo and Genymotion(Android Emulator).
 
